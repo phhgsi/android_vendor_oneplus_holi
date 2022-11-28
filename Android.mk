@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),avicii)
+ifeq ($(TARGET_DEVICE),holi)
 
 endif
